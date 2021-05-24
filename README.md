@@ -21,3 +21,8 @@ Run commands
 2) ```yarn install```
 
 3) ```yarn run dev```
+
+
+### Live Demo
+
+# https://amazon-2-0-one.vercel.app/ 
